@@ -1,5 +1,3 @@
-![Banner de Brandon Guerra](github-header-image.png)
-
 <h1 align="center">👋 ¡Hola! Soy Brandon Guerra</h1>
 
 <p align="center">
@@ -72,7 +70,7 @@ También tengo conocimientos en **Python y JavaScript**, especialmente en progra
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 📚 Actualmente aprendiendo y fortaleciendo
 
 ```text
 Java
@@ -97,20 +95,11 @@ DevOps
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brandonherrera17143&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonherrera17143&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Enfoque actual
 
 ```text
 ☕ Java + Spring Boot       ████████████████████
-🅰️ Angular + TypeScript    ██████████████████░░
+🅰️ Angular + TypeScript     ██████████████████░░
 🐘 PostgreSQL               ████████████████░░░░
 🔧 Git + GitHub             ███████████████░░░░░
 ⚙️ GitHub Actions           ███████████░░░░░░░░░
@@ -123,8 +112,6 @@ DevOps
 
 Algunos de mis proyectos y prácticas:
 
-🔹 **OficiosGt**
-Plataforma para conectar personas con profesionales de diferentes oficios.
 
 🔹 **Proyectos Spring Boot**
 APIs REST, persistencia con JPA/Hibernate, PostgreSQL y arquitectura por capas.
@@ -164,7 +151,7 @@ CI/CD 🚀
 ---
 
 <p align="center">
-  ⭐ Gracias por visitar mi perfil ⭐
+  ⭐ Gracias por visitar mi perfil, chauu bobysss ⭐
 </p>
 
 
